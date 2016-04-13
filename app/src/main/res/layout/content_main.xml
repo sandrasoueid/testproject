@@ -40,7 +40,7 @@
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
         android:textSize="24dp"
-        android:textColor="#92b089" />
+        android:textColor="#538046" />
 
     <TextView
         android:layout_width="wrap_content"
